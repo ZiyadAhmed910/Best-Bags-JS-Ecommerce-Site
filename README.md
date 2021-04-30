@@ -148,6 +148,8 @@ After you've set these environmental variables in the .env file at the root of t
 
 Now you can run "npm start" in the terminal and the application should work.
 
+- For Stripe : If you are in country or place in india please change currency to INR and add your public key in public/javascripts/checkout.js
+
 ## License
 
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
